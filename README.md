@@ -9,4 +9,7 @@ The algorithm is really simple, it just use API RtlCompressionBuffer() to compre
 ## Example 
 
 
+https://github.com/user-attachments/assets/c902315b-a252-4c80-a46e-9e2d1d4f1fee
+
+
 
