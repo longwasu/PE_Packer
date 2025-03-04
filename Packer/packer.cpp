@@ -48,6 +48,9 @@ void WriteFile(const char* inputFileName, BYTE* buffer, DWORD bufferSize) {
 		printf("Fail to write to file %s", outputFile.c_str());
 		exit(1);
 	}
+	else {
+		printf("Packed file save as: %s", outputFile.c_str());
+	}
 }
 
 
